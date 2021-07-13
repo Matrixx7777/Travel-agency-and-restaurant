@@ -1,0 +1,102 @@
+body{	background-color:#C0C0C0;
+}
+
+
+#Poczatek{	Background-color:#808080;
+			color:#000000;
+			font-size:55px;
+			font-family:Tahoma;
+			text-align:center;
+			height:100px;
+			width:1200px;
+			padding-top:40px;
+			font-weight:bold;
+			margin:auto;
+}
+
+
+
+#tytul{ font-family:Tahoma;
+		font-size:30px;
+		font-weight:bold;
+		padding-top:20px;
+		padding-bottom:10px;
+		text-align:center;
+	
+	
+	
+	
+	
+}
+
+img{	background-color:#808080;
+		width:500px;
+		height:350px;
+		padding:50px;
+		margin-top:20px;
+		
+	
+
+	
+}
+
+#opis_morza{	text-align:center;
+					font-family:Tahoma;
+					font-size:20px;
+					width:1000px;
+					margin:auto;	
+					margin-top:40px;
+	
+
+	
+}
+
+#opis_gor{			text-align:center;
+					font-family:Tahoma;
+					font-size:20px;
+					width:1000px;
+					margin:auto;
+					margin-top:80px
+					
+	
+
+	
+}
+
+				
+		
+
+table, td{	border:4px;
+			border-style:solid;
+			border-color:black;
+			background-color:#808080;
+			width:1100px;
+			height:80px;
+			text-align:center;
+			font-weight:bold;
+			font-size:20px;
+			font-family:Tahoma;
+			margin-top:100px;
+			margin-left:125px;
+			
+			
+			
+	
+	
+	
+	
+}
+
+#powrot{		font-size:20px;
+				margin-left:100px;
+				margin-top:100px;
+				margin-bottom:60px;
+				font-family:Tahoma;
+				font-weight:200;
+				
+	
+	
+	
+}
+
+

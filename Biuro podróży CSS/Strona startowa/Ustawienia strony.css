@@ -1,0 +1,49 @@
+body{	background-color:#C0C0C0;	
+}
+
+#baner{	background-color:#808080;
+		color:#000000;
+		text-align:center;
+		height:100px;
+		width:1200px;
+		font-family:Tahoma;
+		font-size: 180%;
+		padding-top:10px;
+		padding-bottom:35px;
+		margin:auto;
+		
+		
+		
+	
+	
+}
+
+#lewy{	background-color:#808080;
+		color:#000000;
+		text-align:center;
+		height:350px;
+		font-size:20px;
+		width:700px;
+		float:left;
+		margin-bottom:10px;
+		font-family:Tahoma;
+		margin-left: 75px;
+}
+img{	
+		width:490px;
+		height:340px;
+		margin-left:10px;
+		margin-top:10px;
+		
+}
+
+#autor{	font-family:Tahoma;
+		text-align:right;
+		margin-right:90px;
+		
+	
+	
+	
+	
+	
+}
